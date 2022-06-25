@@ -1,0 +1,143 @@
+{
+  "nextDoctorId": 4,
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Hibbert Julius",
+      "email": "hibbert@notable.com"
+    },
+    {
+      "id": 2,
+      "name": "Krieger Algernop",
+      "email": "krieger@notable.com"
+    },
+    {
+      "id": 3,
+      "name": "Riviera, Nick",
+      "email": "riviera@notbale.com"
+    }
+  ],
+  "nextAppId": 16,
+  "appointments": [
+    {
+      "id": 1,
+      "assignedDoctor": 1,
+      "name": "Archer Sterling",
+      "date": "6-23-2022",
+      "time": "8:00 AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 2,
+      "assignedDoctor": 1,
+      "name": "Figis Cyril",
+      "date": "6-24-2022",
+      "time": "8:30AM",
+      "type": "Follow-up"
+    },
+    {
+      "id": 3,
+      "assignedDoctor": 1,
+      "name": "Gilette Ray",
+      "date": "6-23-2022",
+      "time": "9:00AM",
+      "type": "Follow-up"
+    },
+    {
+      "id": 4,
+      "assignedDoctor": 1,
+      "name": "Kane Lana",
+      "date": "6-23-2022",
+      "time": "9:30AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 5,
+      "assignedDoctor": 1,
+      "name": "Poovey Pam",
+      "date": "6-23-2022",
+      "time": "10:00AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 6,
+      "assignedDoctor": 2,
+      "name": "Tracy Chad",
+      "date": "6-23-2022",
+      "time": "8:00AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 7,
+      "assignedDoctor": 2,
+      "name": "Wildinsmith Emmy",
+      "date": "6-23-2022",
+      "time": "8:30AM",
+      "type": "Follow-up"
+    },
+    {
+      "id": 8,
+      "assignedDoctor": 2,
+      "name": "Chen Ray",
+      "date": "6-25-2022",
+      "time": "9:00AM",
+      "type": "Follow-up"
+    },
+    {
+      "id": 9,
+      "assignedDoctor": 2,
+      "name": "Ku Ava",
+      "date": "6-23-2022",
+      "time": "9:30AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 10,
+      "assignedDoctor": 2,
+      "name": "Young Pam",
+      "date": "6-23-2022",
+      "time": "10:00AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 11,
+      "assignedDoctor": 3,
+      "name": "Honda James",
+      "date": "6-23-2022",
+      "time": "8:00AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 12,
+      "assignedDoctor": 3,
+      "name": "Davis Lee",
+      "date": "6-23-2022",
+      "time": "8:30AM",
+      "type": "Follow-up"
+    },
+    {
+      "id": 13,
+      "assignedDoctor": 3,
+      "name": "Rool Jeremiah",
+      "date": "6-23-2022",
+      "time": "9:00AM",
+      "type": "Follow-up"
+    },
+    {
+      "id": 14,
+      "assignedDoctor": 3,
+      "name": "Kong Jonathan",
+      "date": "6-23-2022",
+      "time": "9:30AM",
+      "type": "New Patient"
+    },
+    {
+      "id": 15,
+      "assignedDoctor": 3,
+      "name": "Riley Brian",
+      "date": "6-23-2022",
+      "time": "10:00AM",
+      "type": "New Patient"
+    }
+  ]
+}

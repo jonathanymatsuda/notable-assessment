@@ -1,0 +1,25 @@
+{
+  "name": "notable-health-api",
+  "version": "1.0.0",
+  "description": "API for Notable Health",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev:server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data.json"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}

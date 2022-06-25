@@ -1,8 +1,14 @@
-Install dependencies
-$ npm i
+1. Install dependencies
+```shell
+npm i
+```
 
-Run
-$ npm start
+2. Run
+```shell
+npm run dev:server
+```
 
-Test using HTTPie
-$ example: http -v get :3000/api/doctors
+3. Test using HTTPie
+```shell
+example: http -v get :3000/api/doctors
+```
